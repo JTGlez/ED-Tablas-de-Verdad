@@ -1,0 +1,21 @@
+{
+  "name": "proyectoverdad",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.0.2",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.17.3",
+    "core-js": "^3.6.5",
+    "npm": "^6.14.10",
+    "nuxt": "^2.14.6",
+    "showdown": "^1.9.1"
+  },
+  "devDependencies": {}
+}
