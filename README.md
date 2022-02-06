@@ -1,4 +1,4 @@
-# ED-Tablas-de-Verdad
+# ED Tablas de Verdad
 Aplicación web que recibe una proposición lógica y genera su tabla de verdad.
 
 
